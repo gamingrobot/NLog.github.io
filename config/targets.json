@@ -14,7 +14,7 @@
             "android",
             "mono",
             "wp8",
-            "sl"
+            "sl",
         ],
         "keywords": [
             "tool",
